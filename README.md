@@ -1,10 +1,11 @@
 # test-repo
 Test Repository
 ===============
-'*with **andorble** eunjeong*'
+'*with eunjeong*'
+
  * algml=rkfaorl
  * byebye
- * 
+ * **eunjepng is adorble** >-<
  
 > eundoni is so cute>-<
 > yeah~~~~~!!! 
