@@ -5,7 +5,7 @@ Test Repository
 
  * algml=rkfaorl
  * byebye
- * **eunjepng is adorble** >-<
+ * **eunjepng is adorable** >-<
  
 > eundoni is so cute>-<
 > yeah~~~~~!!! 
